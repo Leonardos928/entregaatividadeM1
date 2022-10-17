@@ -1,0 +1,56 @@
+1 - Vamos criar um arquivo de extensão .txt e documentar os seguintes passos:
+
+Acessar página inicial do website
+    cliente esta procurando um produto para dar de presente, se achar comprará em nosso site, caso nao ache sairá e comprar em outro.
+
+Realizar cadastro
+    para comprar cliente precisa se cadastrar no site, se nao fizer o cadastro não seguimos para o proximo passo.
+
+Acessar aba de celulares
+
+
+
+Procurar produto
+    cliente procurar o produto que deseja se achar clicará pra ver mais detalhes.
+
+Clicar no produto
+    se o cliente encontrar o produto que procura irá colocar no carrinho; se nao sairá do site.
+
+Acessar página com detalhes
+    cliente achou o produto que deseja e esta olhando com detalhes.
+
+Clicar no botão para inserir no carrinho de compras
+    cliente decidiu sobre o produto que estava procurando.
+
+Clicar na aba "Carrinho de compras"
+    
+
+Clicar no botão "Finalizar compras"
+
+Selecionar o método de pagamento (neste exemplo, por cartão de crédito)
+    cliente agora esta preocupado sobre a bandeira do seu cartao, se nao tiver a bandeira cliente nao irá comprar; se possuir vai concluir a compra.
+
+Inserir os dados do cartão de crédito
+    cliente inseriu os dados do cartao no site, mas ainda esta preocupado pois quer pagar o produto com 2 cartoes de credito. 
+
+Cadastrar o cartão no site
+    cliente fez o cadastro do cartao no site, mas queria pagar com dois cartoes; se tiver a opçao ele leva o produto; caso nao possui vai pensar.
+
+Clicar no botão para concluir a compra
+    site possui a opçao de pagar com 2 cartoes, cliente comprou em nosso site.
+
+Checar o email para validar se a compra foi realizada
+    cliente comprou em nosso site e foi enviado email de confirmação de pagamento.
+
+
+
+
+
+
+2 - Insira estruturas de condição (Se/Se não) entre as ações acima para as seguintes situações:
+"O usuário só poderá comprar se encontrar produtos; se não encontrar, a pessoa sairá do site"
+"O usuário só poderá pagar com cartão de crédito se essa forma estiver disponível; se não estiver, a pessoa sairá do site"
+
+
+3 - Insira estruturas de repetição (Enquanto) entre as ações acima para a seguinte situação:
+“O cliente continuará procurando por um produto durante no máximo 1 minuto; caso não encontre, sairá do site”
